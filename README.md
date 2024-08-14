@@ -5,7 +5,7 @@ _____
 Welcome to my GitHub profile! Here you'll find a variety of projects, ranging from personal experiments to professional endeavors. I'm passionate about software development and enjoy exploring new technologies to solve problems. Feel free to explore my repositories and don't hesitate to reach out if you have any questions or suggestions.
 
 ### About Me
-- 🌱 I’m currently learning Python, Machine Learning
+- 🌱 I’m currently learning Python, Machine Learning, React
 - 📫 How to reach me: mail me at satishksinha@hotmail.com
 
 ### Technologies I Work With
