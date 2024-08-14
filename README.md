@@ -11,6 +11,7 @@ Welcome to my GitHub profile! Here you'll find a variety of projects, ranging fr
 ### Technologies I Work With
 - Languages: Python, PHP
 - Frameworks: Codeigniter, Laravel, Flask API, Django, FastAPI
+- Others: API Development, GIT, Elastic Stack (ELK), RabbitMQ, Redis, Amazon AWS S3, Docker, AWS Glue, GraphQL
 
 ### Let's Connect
 - LinkedIn: https://www.linkedin.com/in/satish-sinha-46554b186/
